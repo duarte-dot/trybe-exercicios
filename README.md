@@ -14,7 +14,7 @@ Meu repositório de atividades da [Trybe](https://www.betrybe.com/)!
 
 - [x] 2.1 Git - O que é e para que serve
 - [x] 2.2 Git & GitHub - Entendendo os comandos
-- [ ] 2.3 Internet - Entendendo como ela funciona
+- [x] 2.3 Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução à HTML e CSS
 
