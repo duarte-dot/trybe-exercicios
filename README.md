@@ -22,13 +22,13 @@ Meu repositório de atividades da [Trybe](https://www.betrybe.com/)!
 - [x] 3.1 - HTML & CSS - Estruturas de página
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [x] 3.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
-- [ ] 3.5 - Projeto - Lessons Learned
+- [x] 3.4 - HTML Semântico
+- [x] 3.5 - Projeto - Lessons Learned
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
-- [ ] 4.1 Introdução - Javascript
-- [ ] 4.1 Javascript - Primeiros passos
+- [x] 4.1 Introdução - Javascript
+- [x] 4.1 Javascript - Primeiros passos
 - [ ] 4.2 Javascript - Array e loop For
 - [ ] 4.3 Javascript - Lógica de Programação e Algoritmos
 - [ ] 4.4 Javascript - Objetos e Funções
