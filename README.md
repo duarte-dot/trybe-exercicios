@@ -3,20 +3,20 @@ Meu repositório de atividades da [Trybe](https://www.betrybe.com/)!
 
 ## Fundamentos do desenvolvimento web :construction:
 
-##### Bloco 1: Unix, Bash e Shell Script
+##### Seção 1: Unix, Bash e Shell Script
 
 - [x] 1.1 - Fundamentos do Desenvolvimento Web
 - [x] 1.1 - Introdução - Unix & Shell
 - [x] 1.1 - Unix & Bash - Parte 1
 - [x] 1.2 - Unix & Bash - Parte 2
 
-##### Bloco 2: Git, GitHub e Internet
+##### Seção 2: Git, GitHub e Internet
 
 - [x] 2.1 Git - O que é e para que serve
 - [x] 2.2 Git & GitHub - Entendendo os comandos
 - [x] 2.3 Internet - Entendendo como ela funciona
 
-##### Bloco 3: Introdução à HTML e CSS
+##### Seção 3: Introdução à HTML e CSS
 
 - [x] 3.1 - Introdução - HTML & CSS
 - [x] 3.1 - HTML & CSS - Estruturas de página
@@ -25,41 +25,41 @@ Meu repositório de atividades da [Trybe](https://www.betrybe.com/)!
 - [x] 3.4 - HTML Semântico
 - [x] 3.5 - Projeto - Lessons Learned
 
-##### Bloco 4: Introdução à JavaScript e Lógica de Programação
+##### Seção 4: Introdução à JavaScript e Lógica de Programação
 
 - [x] 4.1 Introdução - Javascript
 - [x] 4.1 Javascript - Primeiros passos
-- [ ] 4.2 Javascript - Array e loop For
-- [ ] 4.3 Javascript - Lógica de Programação e Algoritmos
-- [ ] 4.4 Javascript - Objetos e Funções
-- [ ] 4.5 Projeto - Playground Functions
+- [x] 4.2 Javascript - Array e loop For
+- [x] 4.3 Javascript - Lógica de Programação e Algoritmos
+- [x] 4.4 Javascript - Objetos e Funções
+- [x] 4.5 Projeto - Playground Functions
 
-##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+##### Seção 5: JavaScript: DOM, Eventos e Web Storage
 
-- [ ] 5.1 Javascript - DOM e seletores
-- [ ] 5.2 Javascript - Trabalhando com elementos
-- [ ] 5.3 Javascript - Eventos
-- [ ] 5.4 Javascript - Web Storage
-- [ ] 5.5 Fundamentos  - Javascript - Projetos
-- [ ] 5.5 Projeto - Arte com Pixels
-- [ ] 5.6 (Bônus) - Projeto - Lista de Tarefas
-- [ ] 5.7 (Bônus) - Projeto - Meme Generator
-- [ ] 5.7 (Bônus) - Projeto - Adivinhe a cor
-- [ ] 5.7 (Bônus) - Projeto - Carta Misteriosa
+- [x] 5.1 Javascript - DOM e seletores
+- [x] 5.2 Javascript - Trabalhando com elementos
+- [x] 5.3 Javascript - Eventos
+- [x] 5.4 Javascript - Web Storage
+- [x] 5.5 Fundamentos  - Javascript - Projetos
+- [x] 5.5 Projeto - Arte com Pixels
+- [x] 5.6 (Bônus) - Projeto - Lista de Tarefas
+- [x] 5.7 (Bônus) - Projeto - Meme Generator
+- [x] 5.7 (Bônus) - Projeto - Adivinhe a cor
+- [x] 5.7 (Bônus) - Projeto - Carta Misteriosa
 
-##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+##### Seção 6: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ] 6.1 HTML & CSS
-- [ ] 6.2 Bibliotecas JavaScript e FrameWorks CSS
-- [ ] 6.3 Introdução - CSS Flexbox
-- [ ] 6.3 CSS Flexbox - Parte 1
-- [ ] 6.4 CSS Flexbox - Parte 2
-- [ ] 6.5 CSS Responsivo - Mobile First
-- [ ] 6.6 Projeto - Trybewarts
+- [x] 6.1 HTML & CSS
+- [x] 6.2 Bibliotecas JavaScript e FrameWorks CSS
+- [x] 6.3 Introdução - CSS Flexbox
+- [x] 6.3 CSS Flexbox - Parte 1
+- [x] 6.4 CSS Flexbox - Parte 2
+- [x] 6.5 CSS Responsivo - Mobile First
+- [x] 6.6 Projeto - Trybewarts
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
-- [ ] 7.1 - Javascript ES6 - let, const, arrow functions e template literals
+- [x] 7.1 - Javascript ES6 - let, const, arrow functions e template literals
 - [ ] 7.2 - Javascript ES6 - Fluxo de exceção e Objetos
 - [ ] 7.3 - Primeiros passos em Jest
 - [ ] 7.4 - Projeto - JavaScript Testes Unitários
