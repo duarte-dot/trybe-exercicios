@@ -1,5 +1,5 @@
-# Trybe - Exercícios :man_student:
-Meu repositório de atividades da [Trybe](https://www.betrybe.com/)!
+# Trybe - CheckList :man_student:
+Meu repositório de aprendizados [Trybe](https://www.betrybe.com/)!
 
 ## Fundamentos do desenvolvimento web :construction:
 
