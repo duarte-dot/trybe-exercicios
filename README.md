@@ -72,3 +72,5 @@ Meu repositório de aprendizados [Trybe](https://www.betrybe.com/)!
 - [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8.6 - Projeto - Zoo functions
+
+# Front-end :construction:
