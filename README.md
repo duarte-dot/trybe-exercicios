@@ -57,14 +57,14 @@ Meu repositório de aprendizados [Trybe](https://www.betrybe.com/)!
 - [x] 6.5 CSS Responsivo - Mobile First
 - [x] 6.6 Projeto - Trybewarts
 
-##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+##### Seção 7: Introdução à JavaScript ES6 e Testes Unitários
 
 - [x] 7.1 - Javascript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - Javascript ES6 - Fluxo de exceção e Objetos
 - [x] 7.3 - Primeiros passos em Jest
 - [x] 7.4 - Projeto - JavaScript Testes Unitários
 
-##### Bloco 8: Higher Order Functions do JavaScript ES6
+##### Seção 8: Higher Order Functions do JavaScript ES6
 
 - [x] 8.1 - JavaScript ES6 - Introdução a Higher Order Functions
 - [x] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
@@ -74,3 +74,65 @@ Meu repositório de aprendizados [Trybe](https://www.betrybe.com/)!
 - [x] 8.6 - Projeto - Zoo functions
 
 # Front-end :construction:
+
+##### Seção 1: Introdução ao Front-end e JavaScript assíncrono
+
+- [x] 1.1 - Ambiente de desenvolvimento
+- [x] 1.2 - JavaScript Assíncrono - Promises e fetch
+- [ ] 1.3 - Prática - Casa de câmbio
+- [ ] 1.4 - Async, await e testes assíncronos
+- [ ] 1.5 - Projeto - Carrinho de compras
+
+#### Seção 2: Introdução ao React
+
+- [ ] 2.1 - 'Hello, world!' no React
+- [ ] 2.2 - 
+- [ ] 2.3 - 
+
+#### Seção 3: Componentes com Estado, Eventos e Formulários com React
+
+- [ ] 3.1 - 
+- [ ] 3.2 - 
+- [ ] 3.3 - 
+
+#### Seção 4: Ciclo de Vida de Componentes e React Router
+
+- [ ] 4.1 - 
+- [ ] 4.2 - 
+- [ ] 4.3 - 
+
+#### Seção 5: Metodologias Ágeis
+
+- [ ] 5.1 - Metodologias Ágeis
+- [ ] 5.2 - Projeto - Front-end Online Store
+
+#### Seção 6: Testes automatizados com React Testing Library
+
+- [ ] 6.1 - RTL - Primeiros passos
+- [ ] 6.2 - Mocks e Inputs
+- [ ] 6.3 - Testando React Router
+- [ ] 6.4 - Testes em React
+
+#### Seção 7: Gerenciamento de estado com Redux
+
+- [ ] 7.1 - Introdução ao Redux - O estado global da aplicação
+- [ ] 7.2 - Usando o Redux no React
+- [ ] 7.3 - Usando o Redux no React - Prática
+- [ ] 7.4 - Usando o Redux no React - Actions Assíncronas
+- [ ] 7.5 - Testes em React-Redux
+- [ ] 7.6 - Projeto - Trybe Wallet
+
+#### Seção 8: Projeto - Jogo de Trivia
+
+- [ ] 8.1 - Projeto - Jogo de Trivia
+
+#### Seção 9: Context API e React Hooks
+
+- [ ] 9.1 - Context API do React
+- [ ] 9.2 - React Hooks - useState e useContext
+- [ ] 9.3 - useEffect e Hooks customizados
+- [ ] 9.4 - StarWars Datatable com Context API e Hooks
+
+#### Seção 10: Projeto App de Receitas
+
+- [ ] 10.1 - Projeto - App de Receitas
