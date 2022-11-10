@@ -1,7 +1,7 @@
 # Trybe - CheckList :man_student: ✔️
 Meu repositório de aprendizados [Trybe](https://www.betrybe.com/)!
 
-## Fundamentos do desenvolvimento web :construction:
+## Fundamentos do desenvolvimento web ✔️
 
 ##### Seção 1: Unix, Bash e Shell Script
 
@@ -71,4 +71,4 @@ Meu repositório de aprendizados [Trybe](https://www.betrybe.com/)!
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
 - [x] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.6 - Projeto - Zoo functions
+- [x] 8.6 - Projeto - Zoo functions
