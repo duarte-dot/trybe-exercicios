@@ -85,21 +85,21 @@ Meu repositório de aprendizados [Trybe](https://www.betrybe.com/)!
 
 #### Seção 2: Introdução ao React
 
-- [ ] 2.1 - 'Hello, world!' no React
-- [ ] 2.2 - Componentes do React
-- [ ] 2.3 - Projeto - Solar System
+- [x] 2.1 - 'Hello, world!' no React
+- [x] 2.2 - Componentes do React
+- [x] 2.3 - Projeto - Solar System
 
 #### Seção 3: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 3.1 - Componentes com estado e eventos
-- [ ] 3.2 - Formulários no React
-- [ ] 3.3 - Projeto - Tryunfo
+- [x] 3.1 - Componentes com estado e eventos
+- [x] 3.2 - Formulários no React
+- [x] 3.3 - Projeto - Tryunfo
 
 #### Seção 4: Ciclo de Vida de Componentes e React Router
 
-- [ ] 4.1 - Ciclo de vida de componentes
-- [ ] 4.2 - React Router
-- [ ] 4.3 - Projeto - TrybeTunes
+- [x] 4.1 - Ciclo de vida de componentes
+- [x] 4.2 - React Router
+- [x] 4.3 - Projeto - TrybeTunes
 
 #### Seção 5: Metodologias Ágeis
 
